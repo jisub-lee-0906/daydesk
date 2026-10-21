@@ -1,0 +1,10 @@
+{
+  "opencodex_port": 10100,
+  "comfyui_port": 8188,
+  "subscriptions": [
+    {"id":"codex","name":"Codex / ChatGPT","plan":"플랜 미입력","verified_at":null,"source":"직접 입력 대기","amount":null,"currency":"KRW","cycle":"monthly","renewal":"","tracking":true},
+    {"id":"claude","name":"Claude","plan":"Pro monthly","verified_at":1792406583.79,"source":"마지막 공식 계정 확인 · 2026-10-19","amount":null,"currency":"KRW","cycle":"monthly","renewal":"","tracking":true},
+    {"id":"grok","name":"Grok","plan":"Plus monthly","verified_at":1792406604.316,"source":"마지막 공식 계정 확인 · 2026-10-19","amount":null,"currency":"KRW","cycle":"monthly","renewal":"","tracking":true},
+    {"id":"gemini","name":"Gemini / Antigravity","plan":"Google AI Plus","verified_at":1792474882.666,"source":"마지막 공식 계정 확인 · 2026-10-20","amount":null,"currency":"KRW","cycle":"monthly","renewal":"","tracking":true}
+  ]
+}

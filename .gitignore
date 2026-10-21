@@ -1,0 +1,13 @@
+.run/
+.scratch/
+__pycache__/
+*.pyc
+
+# Local review and verification outputs
+/reviews/
+/artifacts/
+
+# Local credentials
+.env
+.env.*
+!.env.example
