@@ -52,9 +52,9 @@ GPU는 기존 NVIDIA 드라이버 NVML DLL로 읽으며 CUDA 컨텍스트나 측
 
 ## 실행·사용 방법
 
-1. **[Open Dashboard.cmd](Open%20Dashboard.cmd)**를 더블클릭해 `http://127.0.0.1:8765/`를 엽니다. 재실행해도 수집기는 하나입니다.
+1. [Open Dashboard.cmd](Open%20Dashboard.cmd)를 더블클릭해 `http://127.0.0.1:8765/`를 엽니다. 재실행해도 수집기는 하나입니다.
 2. 필요한 경우 **위치 설정 → 현재 위치 사용**을 켭니다. 기본 지역은 용인이며 위치를 얻지 못하면 용인으로 복귀합니다. OS·브라우저 위치 서비스와 권한이 필요합니다.
-3. **[Stop Dashboard.cmd](Stop%20Dashboard.cmd)**로 수집기를 종료합니다. 자동 시작·서비스·전역 패키지를 설치하지 않습니다.
+3. [Stop Dashboard.cmd](Stop%20Dashboard.cmd)로 수집기를 종료합니다. 자동 시작·서비스·전역 패키지를 설치하지 않습니다.
 
 실행기는 기존 **Codex 번들 Python** 경로를 사용합니다. 해당 경로가 없거나 이동한 PC에서는 두 `.cmd`의 `DESK_PYTHON`을 기존 Python 3.12+ 실행 파일로 바꿉니다. Node.js는 아래 JavaScript 테스트를 실행할 때 필요합니다.
 
